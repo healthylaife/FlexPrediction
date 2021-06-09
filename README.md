@@ -1,4 +1,4 @@
-# MLHC
+# ICDM
 Preprocessing: These steps have to be taken for both male and female cohorts.
 1. extraction - shoes how data is extracted from All of Us database and preprocessed. 
 2. flatten - creates one hot encodeing data
