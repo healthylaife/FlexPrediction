@@ -1,4 +1,8 @@
 # ICDM
+
+System requirements: Python 3.7.1 Tensorflow 2.2.0 PyTorch 1.2.1 GPU - NVIDIA GeForce RTX 2080
+
+JupyterNotebook: 6.0.3
 Preprocessing: These steps have to be taken for both male and female cohorts.
 1. extraction - shoes how data is extracted from All of Us database and preprocessed. 
 2. flatten - creates one hot encodeing data
